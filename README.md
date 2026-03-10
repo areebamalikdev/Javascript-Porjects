@@ -1,2 +1,3 @@
 # Javascript-Porjects
 This is my first Git hub repository in which i will upload my mini js projects ...
+Author Name is : Areeba Ishtiaq.
